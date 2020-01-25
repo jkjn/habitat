@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/habitat.iml
+.idea/modules.xml
+.idea/vcs.xml
